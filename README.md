@@ -61,5 +61,4 @@ https://creativecommons.org/licenses/by/4.0/
 
 ## Author
 
-Bismark Gawu# student-performance-analysis
-Exploring mathematics and Portuguese student performance using Python, pandas, and Matplotlib.
+Bismark Gawu
